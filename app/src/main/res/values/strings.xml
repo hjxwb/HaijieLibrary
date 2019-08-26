@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HaijieLibrary</string>
+    <string name="SoulPermission_checkAndRequestPermission">SoulPermission_checkAndRequestPermission</string>
+    <string name="UtilsLibrary">UtilsLibrary</string>
+    <string name="btn_SoulPermission_goPermissionSettings">SoulPermission_goPermissionSettings</string>
+    <string name="InternetUtils_isNetworkAvailable">InternetUtils_isNetworkAvailable</string>
+</resources>
